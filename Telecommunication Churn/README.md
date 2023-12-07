@@ -11,7 +11,7 @@ telecommunication company in order to predict when a customer will leave
 This project requires \*\*Python\*\* and the following Python libraries
 installed:
 
-- \[Pandas\](http://pandas.pydata.org/) -
+[Pandas\](http://pandas.pydata.org/) -
 [NumPy\](http://www.numpy.org/) -
 [LightGBM\](https://lightgbm.readthedocs.io/en/stable) -
 [matplotlib\](http://matplotlib.org/) -
