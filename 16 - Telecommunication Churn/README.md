@@ -15,7 +15,7 @@ installed:
 - [NumPy](http://www.numpy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
-- [lightgbm] (https://lightgbm.readthedocs.io/en/stable/)
+- [lightgbm](https://lightgbm.readthedocs.io/en/stable/)
 
 ### Functionality
 
