@@ -19,7 +19,8 @@ This project requires **Python** and the following Python libraries installed:
 * LinearRegression and RandomForestRegressor ML algorithms were employed to predict the amount of gold recovered from gold ore.
 * Symmetric mean absolute percentage error (sMAPE) function was created and used to score the models.
 * K-folds cross-validator was used to optimize the models.
-* The RandomForestRegressor model achieved the best sMAPE score of 2.42.
+* The RandomForestRegressor model achieved the best sMAPE score of 2.42. This model should be used by Zyfra to select which gold ore to process.
 
+![gold mining](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/244f6778-88b4-488f-8a6a-a2a769d8b166)
 
 Datasets available on request.
