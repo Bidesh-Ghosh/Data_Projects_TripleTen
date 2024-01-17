@@ -30,6 +30,9 @@ RandomForestRegressor, DecisionTreeClassifier, and LogisticRegression
 along with LightGBM gradient boosting. 
 * Models were rated via AUC
 score. 
-* Best model achieves an AUC score of 0.8586.
+* LightGBM achieved the best AUC score of 0.8586. This model should be used to determine when a customer will leave the company in order to target them with promotions.
+  
+
+![Telecommunications](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/91729626-102c-4eb4-8be2-d38a35bfd17d)
 
 Original datasets are found under the folder titled "Datasets"
