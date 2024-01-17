@@ -21,5 +21,6 @@ The following conclusions were made from this study:
 * Pop music is the most popular genre in Springfield
 * Pop music turned out to be equally popular in Springfield and Shelbyville. Rap was not in the top 5 for either city.
 
+![image](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/086e6686-c99d-4386-bd2e-351b75329247)
 
 Original dataset is found under the file titled "Dataset".
