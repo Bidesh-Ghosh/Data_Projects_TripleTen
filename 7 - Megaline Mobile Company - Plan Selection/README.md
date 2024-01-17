@@ -18,6 +18,8 @@ The following conclusions were made from this study:
 * Completes data preprocessing, exploratory data analysis, and statistical data analysis.
 * Creates models using the RandomForestClassifier, LogisticRegression, and DecisionTreeClassifier methods.
 * Using the RandomForestClassifier method with max_depth=19 achieved a 80.2% accuracy rating.
+* It is advised to use this model to predict which plan will be suitable for a specific customer.
 
+![megaline plan selection](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/db5e18cc-bf75-4603-811b-9dd00c298949)
 
 Original dataset is found under the file titled "Dataset".
