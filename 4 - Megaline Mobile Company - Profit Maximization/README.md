@@ -21,5 +21,6 @@ The following conclusions were made from this study:
 * Concludes that the average revenue from Surf plan users is significantly lower than the average revenue from Ultimate plan users.
 * The average revenue from NY Ultimate users is significantly higher than the average revenue from Ultimate users outside NY.
 
+![megaline profit](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/3030c38d-9a99-40ba-8ba4-5639f45e89ca)
 
 Original datasets are found under the folder titled "Datasets".
