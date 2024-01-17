@@ -12,9 +12,9 @@ This project requires **Python** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
-- [seaborn] (https://seaborn.pydata.org/)
-- [lightgbm] (https://lightgbm.readthedocs.io/en/stable/)
-- [catboost] (https://catboost.ai/)
+- [seaborn](https://seaborn.pydata.org/)
+- [lightgbm](https://lightgbm.readthedocs.io/en/stable/)
+- [catboost](https://catboost.ai/)
 
 ### Functionality
 
