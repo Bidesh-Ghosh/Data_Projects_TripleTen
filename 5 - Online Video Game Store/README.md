@@ -21,5 +21,6 @@ This project requires **Python** and the following Python libraries installed:
 * EU and NA should advertise shooter and action games while Japan should advertise action and role-playing games.
 * Older audiences should be targeted in EU and NA (rated M games) and younger audiences should be targeted in Japan (rated T and E)
 
+![videogame](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/41667df0-8363-426b-b057-610c0b12868f)
 
 Original dataset is found under the file titled "Dataset".
