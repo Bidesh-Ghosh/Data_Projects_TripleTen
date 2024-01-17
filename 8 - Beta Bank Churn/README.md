@@ -19,4 +19,6 @@ This project requires **Python** and the following Python libraries installed:
 * LogisticRegression, RandomForestClassifier, and DecisionTreeClassifier ML algorithms were employed to predict whether a customer will leave Beta Bank.
 * DecisionTreeClassifier with max_depth = 5 produced a model that achieved an F1 score of 0.604 and an AUC-ROC of 0.828.
 
+![beta bank image](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/3f003690-796c-407b-9d19-c5b3096c2cd7)
+
 Datasets available on request.
