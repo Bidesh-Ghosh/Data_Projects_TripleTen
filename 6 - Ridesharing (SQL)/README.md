@@ -34,6 +34,9 @@ This project requires **Python** and the following Python libraries installed:
 #### Part 7
 * Exploratory data analyis via Python to determine patterns from the available information in order to understand passenger preferences and the impact of external factors on rides.
 * Tests the hypothesis that the duration of rides from the Loop to O'Hare airport changes on rainy Saturdays.
+* This study concluded that the biggest of Zuber is Flash Cab. Zuber should keep the most cars in the following areas: Loop, River North, Streeterville, and West Loop.
+
+![ridesharing sql](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/defcb2a1-dd8e-4c10-8f2a-4a364276d3a3)
 
 Data parsed from: https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html
 Original dataset is found under the file titled "Dataset".
