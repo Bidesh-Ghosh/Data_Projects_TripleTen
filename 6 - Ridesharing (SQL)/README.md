@@ -3,6 +3,10 @@
 ## Overview
 
 * The purpose of this report is to identify the most popular taxi dropoff locations in Chicago and identify Zuber's biggest competitors in order to find patterns in the available information that may give a competitive edge. We will also determine the impact of weather on trip times; specifically, we are testing the hypothesis that the duration of rides from the the Loop to O'Hare International Airport changes on rainy Saturdays.
+* Data tables used are shown:
+
+![Image (1)](https://github.com/Bidesh-Ghosh/Data_Projects_TripleTen/assets/152648624/e988f2b4-0f07-4a77-b942-192afd7f6e1f)
+
 
 ### Install
 
